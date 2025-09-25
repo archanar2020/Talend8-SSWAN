@@ -1,5 +1,89 @@
 [ {
   "baseItem" : {
+    "id" : "_BT66EJPGEfC5qemoKgPeQQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_P1qysI4oEfCIdZvP3uJFFw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_ZsUS0IdFEfCPMry50cmTAw",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_C9mvMJU7EfCF1K0Q9LbjKw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_ZsUS0IdFEfCPMry50cmTAw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_jrvVkI11EfCIdZvP3uJFFw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_jrvVkI11EfCIdZvP3uJFFw - customer_data",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_jrvVkI11EfCIdZvP3uJFFw - tax_rates",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_FYsRkJU7EfCF1K0Q9LbjKw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_ZsUS0IdFEfCPMry50cmTAw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_jrvVkI11EfCIdZvP3uJFFw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_jrvVkI11EfCIdZvP3uJFFw - customer_data",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_jrvVkI11EfCIdZvP3uJFFw - tax_rates",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_H-0mUJU7EfCF1K0Q9LbjKw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_ZsUS0IdFEfCPMry50cmTAw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_jrvVkI11EfCIdZvP3uJFFw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_jrvVkI11EfCIdZvP3uJFFw - customer_data",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_jrvVkI11EfCIdZvP3uJFFw - tax_rates",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_cYWssI1jEfCEq43huZg4hA",
     "version" : "0.1",
     "type" : "job"
@@ -22,7 +106,7 @@
   } ]
 }, {
   "baseItem" : {
-    "id" : "_pIDIYIdCEfCpsomnfyT22A",
+    "id" : "_i-f8YI42EfCIdZvP3uJFFw",
     "version" : "0.1",
     "type" : "job"
   },
@@ -30,5 +114,40 @@
     "id" : "_ZsUS0IdFEfCPMry50cmTAw",
     "version" : "Latest",
     "type" : "property"
+  }, {
+    "id" : "_ZsUS0IdFEfCPMry50cmTAw - EXPERIENCE101",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_pIDIYIdCEfCpsomnfyT22A",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_RHKH8JhpEfC1mewqPhDtbg",
+    "version" : "Latest",
+    "type" : "joblet"
+  }, {
+    "id" : "_ZsUS0IdFEfCPMry50cmTAw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_jrvVkI11EfCIdZvP3uJFFw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_jrvVkI11EfCIdZvP3uJFFw - customer_data",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_jrvVkI11EfCIdZvP3uJFFw - tax_rates",
+    "version" : "Latest",
+    "type" : "schema"
   } ]
 } ]
