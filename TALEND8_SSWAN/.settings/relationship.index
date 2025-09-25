@@ -138,10 +138,6 @@
     "version" : "Latest",
     "type" : "property"
   }, {
-    "id" : "_jrvVkI11EfCIdZvP3uJFFw - customer_data",
-    "version" : "Latest",
-    "type" : "schema"
-  }, {
     "id" : "_jrvVkI11EfCIdZvP3uJFFw - tax_rates",
     "version" : "Latest",
     "type" : "schema"
