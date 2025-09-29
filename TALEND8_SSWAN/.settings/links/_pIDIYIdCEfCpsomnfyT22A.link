@@ -1,0 +1,48 @@
+{
+  "itemId" : "_pIDIYIdCEfCpsomnfyT22A",
+  "contextList" : [ {
+    "contextName" : "Development",
+    "repoId" : "_iAZQYJ0TEfCWoolIMOP6vQ",
+    "parameterList" : [ {
+      "id" : "_iArkQp0TEfCWoolIMOP6vQ",
+      "name" : "Experience_AdditionalParams"
+    }, {
+      "id" : "_iArkQZ0TEfCWoolIMOP6vQ",
+      "name" : "Experience_Server"
+    }, {
+      "id" : "_iArkQ50TEfCWoolIMOP6vQ",
+      "name" : "Experience_Database"
+    }, {
+      "id" : "_iArkRJ0TEfCWoolIMOP6vQ",
+      "name" : "Experience_Login"
+    }, {
+      "id" : "_iArkRZ0TEfCWoolIMOP6vQ",
+      "name" : "Experience_Password"
+    }, {
+      "id" : "_iArkRp0TEfCWoolIMOP6vQ",
+      "name" : "Experience_Port"
+    } ]
+  }, {
+    "contextName" : "Production",
+    "repoId" : "_iAZQYJ0TEfCWoolIMOP6vQ",
+    "parameterList" : [ {
+      "id" : "_iArkQp0TEfCWoolIMOP6vQ",
+      "name" : "Experience_AdditionalParams"
+    }, {
+      "id" : "_iArkQZ0TEfCWoolIMOP6vQ",
+      "name" : "Experience_Server"
+    }, {
+      "id" : "_iArkQ50TEfCWoolIMOP6vQ",
+      "name" : "Experience_Database"
+    }, {
+      "id" : "_iArkRJ0TEfCWoolIMOP6vQ",
+      "name" : "Experience_Login"
+    }, {
+      "id" : "_iArkRZ0TEfCWoolIMOP6vQ",
+      "name" : "Experience_Password"
+    }, {
+      "id" : "_iArkRp0TEfCWoolIMOP6vQ",
+      "name" : "Experience_Port"
+    } ]
+  } ]
+}

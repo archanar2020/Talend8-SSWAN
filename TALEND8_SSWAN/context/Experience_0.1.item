@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_iArkQJ0TEfCWoolIMOP6vQ" confirmationNeeded="false" hide="false" name="Default">
+  <contextParameter xmi:id="_iArkQZ0TEfCWoolIMOP6vQ" comment="" name="Experience_Server" prompt="Experience_Server?" promptNeeded="false" repositoryContextId="" type="id_String" value="localhost"/>
+  <contextParameter xmi:id="_iArkQp0TEfCWoolIMOP6vQ" comment="" name="Experience_AdditionalParams" prompt="Experience_AdditionalParams?" promptNeeded="false" repositoryContextId="" type="id_String" value="noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1"/>
+  <contextParameter xmi:id="_iArkQ50TEfCWoolIMOP6vQ" comment="" name="Experience_Database" prompt="Experience_Database?" promptNeeded="false" repositoryContextId="" type="id_String" value="experience"/>
+  <contextParameter xmi:id="_iArkRJ0TEfCWoolIMOP6vQ" comment="" name="Experience_Login" prompt="Experience_Login?" promptNeeded="false" repositoryContextId="" type="id_String" value="talend"/>
+  <contextParameter xmi:id="_iArkRZ0TEfCWoolIMOP6vQ" comment="" name="Experience_Password" prompt="Experience_Password?" promptNeeded="false" repositoryContextId="" type="id_Password" value="enc:system.encryption.key.v1:0CqVCAVrYDCAjDxtgt0IQ6IthoG7Ogk4vNfBzCvl1b5p/Q=="/>
+  <contextParameter xmi:id="_iArkRp0TEfCWoolIMOP6vQ" comment="" name="Experience_Port" prompt="Experience_Port?" promptNeeded="false" repositoryContextId="" type="id_String" value="3306"/>
+</talendfile:ContextType>
