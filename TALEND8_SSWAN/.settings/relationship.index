@@ -156,10 +156,6 @@
     "id" : "_jrvVkI11EfCIdZvP3uJFFw",
     "version" : "Latest",
     "type" : "property"
-  }, {
-    "id" : "_jrvVkI11EfCIdZvP3uJFFw - tax_rates",
-    "version" : "Latest",
-    "type" : "schema"
   } ]
 }, {
   "baseItem" : {
