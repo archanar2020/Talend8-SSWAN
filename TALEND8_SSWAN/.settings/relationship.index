@@ -157,15 +157,4 @@
     "version" : "Latest",
     "type" : "property"
   } ]
-}, {
-  "baseItem" : {
-    "id" : "_9o92QJ0QEfCWoolIMOP6vQ",
-    "version" : "0.1",
-    "type" : "test_case"
-  },
-  "relatedItems" : [ {
-    "id" : "_pIDIYIdCEfCpsomnfyT22A",
-    "version" : "0.1",
-    "type" : "test_case"
-  } ]
 } ]
